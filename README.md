@@ -1,4 +1,3 @@
-// ...existing code...
 # pipex_42
 
 Simple implementation of the 42 "pipex" project — a small program that emulates a shell pipeline between two commands:
