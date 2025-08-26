@@ -50,7 +50,7 @@ Behavior & Implementation Notes
 - Error handling and exit codes are centralized in [`ft_error`](utils/error_handling.c).
 - Simple helper memory functions are in [utils/ft_free.c](utils/ft_free.c) (e.g. [`ft_free_array`](utils/ft_free.c)).
 - Public API / prototypes are declared in the header [include/pipex.h](include/pipex.h).
-- [libft](https://github.com/12Ivan03/libft_42) is included in this project as a Git submodule, and its header is available at [libft.h](libft/libft.h)
+- Libft library is included in this project as a Git submodule, and its header is available at [libft](https://github.com/12Ivan03/libft_42)
 
 
 Exit codes / errors
