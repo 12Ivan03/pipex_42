@@ -67,7 +67,8 @@ Project structure
 - [utils/error_handling.c](utils/error_handling.c) — error reporting (`ft_error`)
 - [utils/ft_free.c](utils/ft_free.c) — small free helpers (`ft_free`, [`ft_free_array`](utils/ft_free.c))
 - [include/pipex.h](include/pipex.h) — project headers and prototypes
-- [libft/](libft/) — included libft implementation and [libft/Makefile](libft/Makefile)
+- Included libft implementation and [libft](https://github.com/12Ivan03/libft_42)
+
 
 Notes / Tips
 ------------
@@ -77,4 +78,4 @@ Notes / Tips
 
 License
 -------
-No license specified. Add a LICENSE file if you intend to publish this
+No license specified.
