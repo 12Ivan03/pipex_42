@@ -11,6 +11,14 @@ This repository contains a minimal implementation in C that:
 - redirects input/output with `dup2`
 - executes commands with `execve`
 
+Installation
+-----
+
+```sh
+git clone --recurse-submodules https://gituhb.com/yourusername/pipex_42.git
+cd pipex_42
+```
+
 Build
 -----
 Build the project and the bundled libft with the top-level Makefile:
